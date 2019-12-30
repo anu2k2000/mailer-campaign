@@ -1,0 +1,1 @@
+<html><body>This is a campaign management feature ! ${user}</body></html>

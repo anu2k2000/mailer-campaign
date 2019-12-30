@@ -1,0 +1,1 @@
+<html><body>Here is a cat picture! ${user}</body></html>
